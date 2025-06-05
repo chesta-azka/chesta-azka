@@ -17,7 +17,7 @@
 
 ### 🖥️ Gaya Terminal Developer-ku
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chesta-azka/chesta-azka/main/metrics.terminal.svg" />
+  <img src="https://raw.githubusercontent.com/chesta-azka/chesta-azka/main/metrics.terminal.svg" alt="Gaya terminal Chesta" />
 </p>
 
 
