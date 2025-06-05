@@ -2,7 +2,7 @@
 
 # Hello World!, I'm Chesta, a Indonesian Web Developer 👋🏼:
 🧠 currently building my digital startup [WartegDev](https://instagram.com/wartegdev.jokitugaslayananweb)  
-🎓 a 9th grade student passionate about Web Development & UI/UX Design  
+🎓 a 10th grade student passionate about Web Development & UI/UX Design  
 💻 working on freelance projects & building websites since 2024  
 🚀 founder of WartegDev — empowering students & small businesses through tech  
 📱 follow my journey on Instagram: [@wartegdev.jokitugaslayananweb](https://instagram.com/wartegdev.jokitugaslayananweb)
