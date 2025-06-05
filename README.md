@@ -12,3 +12,12 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+---
+
+### 🖥️ Gaya Terminal Developer-ku
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chesta-azka/chesta-azka/main/metrics.terminal.svg" />
+</p>
+
+
