@@ -1,7 +1,11 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Chesta, a German Web Developer 👋🏼:
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+# Hello World!, I'm Chesta, a Indonesian Web Developer 👋🏼:
+🧠 currently building my digital startup [WartegDev](https://instagram.com/wartegdev.jokitugaslayananweb)  
+🎓 a 9th grade student passionate about Web Development & UI/UX Design  
+💻 working on freelance projects & building websites since 2024  
+🚀 founder of WartegDev — empowering students & small businesses through tech  
+📱 follow my journey on Instagram: [@wartegdev.jokitugaslayananweb](https://instagram.com/wartegdev.jokitugaslayananweb)
 
 
 # 💻 Tech Stack:
