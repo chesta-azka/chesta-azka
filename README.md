@@ -4,7 +4,6 @@
 🧠 currently building my digital startup [WartegDev](https://instagram.com/wartegdev.jokitugaslayananweb)  
 🎓 a 10th grade student passionate about Web Development & UI/UX Design  
 💻 working on freelance projects & building websites since 2024  
-🚀 founder of WartegDev — empowering students & small businesses through tech  
 📱 follow my journey on Instagram: [@chesta_azka](https://instagram.com/chesta_azka)
 
 
